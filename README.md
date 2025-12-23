@@ -169,7 +169,10 @@
 * 是否有可用衣物
 * 是否需重新產生穿搭
 
-（UML：Activity Diagram）
+<img width="777" height="441" alt="1" src="https://github.com/user-attachments/assets/2171f738-6a41-4a00-96e8-d04df3cfbb48" />
+<img width="762" height="262" alt="6" src="https://github.com/user-attachments/assets/afd81c4e-6baa-440e-a5b6-2af43e4c8478" />
+
+
 
 ---
 

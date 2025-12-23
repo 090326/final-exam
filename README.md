@@ -200,7 +200,8 @@
 * 一周穿搭顯示功能測試：驗證系統將每日穿搭整合並正確顯示於一周行事曆
 * 手動調整穿搭功能測試：驗證使用者手動調整穿搭後，系統能正確儲存與更新顯示結果
 
-（UML：Use Case × Test Case Diagram）
+<img width="382" height="301" alt="7" src="https://github.com/user-attachments/assets/186504c5-90d4-4e57-8bf9-c08a455a78af" />
+
 
 ---
 

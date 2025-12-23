@@ -80,7 +80,7 @@
 
   
 ###1.6 UML：使用案例圖（Use Case Diagram）
----
+<img width="486" height="630" alt="3" src="https://github.com/user-attachments/assets/9413d63f-d563-4865-81a6-fc8cf14d5e53" />
 
 ## 二、概要設計說明書（High-Level Design）
 
@@ -114,7 +114,7 @@
 
 各模組透過穿搭邏輯層進行協作，UI 層不直接存取資料層，以確保系統模組間低耦合、高內聚。
 
-（UML：Component Diagram）
+<img width="734" height="391" alt="2" src="https://github.com/user-attachments/assets/1c7d1bdc-a571-4d20-b43d-035d54065ed6" />
 
 ---
 

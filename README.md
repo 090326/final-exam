@@ -145,7 +145,7 @@
 4. 邏輯層呼叫 Weather API
 5. 整合結果後回傳給 App
 
-（UML：Sequence Diagram）
+<img width="408" height="622" alt="4" src="https://github.com/user-attachments/assets/9a6a7f6a-946e-41f6-a044-b59491f656b2" />
 
 ---
 

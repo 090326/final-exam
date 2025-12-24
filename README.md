@@ -168,10 +168,12 @@
 * 是否需重新產生穿搭
 
 - 無須手動更換流程圖
+ 
 ![image](https://github.com/090326/final-exam/blob/main/4.png)
 
 
 - 須手動更換之額外流程圖
+  
 ![image](https://github.com/090326/final-exam/blob/main/5.png)
 
 
@@ -222,6 +224,8 @@
 
 * 衣櫃資料不足
 * 天氣資料取得失敗
+
+  
 ![image](https://github.com/090326/final-exam/blob/main/7.png)
 
 

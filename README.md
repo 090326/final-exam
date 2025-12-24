@@ -33,7 +33,7 @@
 
 * 建立與管理個人衣櫃
 * 設定穿搭偏好（顏色、場合、季節）
-* 查看每日／一周穿搭建議
+* 查看每日/一周穿搭建議
 * 手動調整穿搭結果
 
 
@@ -107,13 +107,13 @@
 * 穿搭推薦模組（Outfit Recommendation Module）
 * 天氣整合模組（Weather Integration Module）
 * 行事曆顯示模組（Calendar Module）
+  
   負責將一周穿搭結果以日曆形式呈現，僅處理資料顯示與互動，不包含穿搭產生邏輯。
 ---
 
 ### 2.3 模組關係（Component Diagram）
 
 各模組透過穿搭邏輯層進行協作，UI 層不直接存取資料層，以確保系統模組間低耦合、高內聚。
-
 
 ![image](https://github.com/090326/final-exam/blob/main/2.png)
 
@@ -141,8 +141,11 @@
 3. 邏輯層存取衣櫃資料
 4. 邏輯層呼叫 Weather API
 5. 整合結果後回傳給 App
+
 ![image](https://github.com/090326/final-exam/blob/main/3.png)
+
 ---
+
 
 ### 3.2 穿搭推薦流程（Pseudo Flow）
 
@@ -203,14 +206,13 @@
 * 手動調整穿搭功能測試：驗證使用者手動調整穿搭後，系統能正確儲存與更新顯示結果
 
 
-
+![image](https://github.com/090326/final-exam/blob/main/6.png)
 
 ---
-
 ### 4.4 系統整合測試（Integration Testing）
 
 驗證 UI、Logic 與 Data Layer 間的互動是否正確，確保資料流與呼叫順序符合設計。
-![image](https://github.com/090326/final-exam/blob/main/6.png)
+
 
 ---
 

@@ -231,6 +231,8 @@
 
 當所有測試案例皆通過，且未發現重大流程或功能錯誤，即視為測試完成。
 
+![image](https://github.com/090326/final-exam/blob/main/8.png)
+
 ---
 
 ### 4.7 測試資源

@@ -36,7 +36,6 @@
 * 查看每日／一周穿搭建議
 * 手動調整穿搭結果
 
-（UML：Use Case Diagram）
 
 ---
 
@@ -46,7 +45,6 @@
 * 維護系統基本資料
 * 檢視穿搭統計資料
 
-（UML：Use Case Diagram）
 
 ---
 
@@ -79,7 +77,7 @@
 * 穿搭調整介面
 
   
-###1.6 UML：使用案例圖（Use Case Diagram）
+### 1.6 UML：使用案例圖（Use Case Diagram）
 
 
 <img width="486" height="630" alt="3" src="https://github.com/user-attachments/assets/9413d63f-d563-4865-81a6-fc8cf14d5e53" />
@@ -129,7 +127,6 @@
 * Outfit
 * WeatherInfo
 
-（UML：Class Diagram）
 
 ---
 
@@ -169,7 +166,11 @@
 * 是否有可用衣物
 * 是否需重新產生穿搭
 
+- 無須手動更換流程圖
 <img width="777" height="441" alt="1" src="https://github.com/user-attachments/assets/2171f738-6a41-4a00-96e8-d04df3cfbb48" />
+
+
+- 須手動更換之額外流程圖
 <img width="762" height="262" alt="6" src="https://github.com/user-attachments/assets/afd81c4e-6baa-440e-a5b6-2af43e4c8478" />
 
 
@@ -212,8 +213,6 @@
 
 驗證 UI、Logic 與 Data Layer 間的互動是否正確，確保資料流與呼叫順序符合設計。
 
-（UML：Sequence Diagram）
-
 ---
 
 ### 4.5 流程與例外測試（Process and Exception Testing）
@@ -224,7 +223,6 @@
 * 天氣資料取得失敗
 * 使用者手動調整穿搭
 
-（UML：Activity Diagram）
 
 ---
 

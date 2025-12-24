@@ -215,6 +215,7 @@
 
 驗證 UI、Logic 與 Data Layer 間的互動是否正確，確保資料流與呼叫順序符合設計。
 
+![image](https://github.com/090326/final-exam/blob/main/9.png)
 
 ---
 

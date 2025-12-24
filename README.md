@@ -79,7 +79,7 @@
   
 ### 1.6 UML：使用案例圖（Use Case Diagram）
 
-![image](https://github.com/090326/final_exam/blob/main/1.png)
+![image](https://github.com/090326/final-exam/blob/main/1.png)
 
 
 ## 二、概要設計說明書（High-Level Design）
@@ -107,7 +107,7 @@
 * 穿搭推薦模組（Outfit Recommendation Module）
 * 天氣整合模組（Weather Integration Module）
 * 行事曆顯示模組（Calendar Module）
-
+  負責將一周穿搭結果以日曆形式呈現，僅處理資料顯示與互動，不包含穿搭產生邏輯。
 ---
 
 ### 2.3 模組關係（Component Diagram）
@@ -115,6 +115,7 @@
 各模組透過穿搭邏輯層進行協作，UI 層不直接存取資料層，以確保系統模組間低耦合、高內聚。
 
 
+![image](https://github.com/090326/final-exam/blob/main/2.png)
 
 ---
 
@@ -126,7 +127,6 @@
 * Clothes
 * Outfit
 * WeatherInfo
-
 
 ---
 
@@ -141,8 +141,7 @@
 3. 邏輯層存取衣櫃資料
 4. 邏輯層呼叫 Weather API
 5. 整合結果後回傳給 App
-
-
+![image](https://github.com/090326/final-exam/blob/main/3.png)
 ---
 
 ### 3.2 穿搭推薦流程（Pseudo Flow）
@@ -166,11 +165,11 @@
 * 是否需重新產生穿搭
 
 - 無須手動更換流程圖
-
+![image](https://github.com/090326/final-exam/blob/main/4.png)
 
 
 - 須手動更換之額外流程圖
-
+![image](https://github.com/090326/final-exam/blob/main/5.png)
 
 
 
@@ -211,6 +210,7 @@
 ### 4.4 系統整合測試（Integration Testing）
 
 驗證 UI、Logic 與 Data Layer 間的互動是否正確，確保資料流與呼叫順序符合設計。
+![image](https://github.com/090326/final-exam/blob/main/6.png)
 
 ---
 
@@ -220,7 +220,7 @@
 
 * 衣櫃資料不足
 * 天氣資料取得失敗
-* 使用者手動調整穿搭
+![image](https://github.com/090326/final-exam/blob/main/7.png)
 
 
 ---

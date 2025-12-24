@@ -80,7 +80,7 @@
 ### 1.6 UML：使用案例圖（Use Case Diagram）
 
 ![image](https://github.com/090326/final_exam/blob/main/1.png)
-<img width="486" height="630" alt="3" src="https://github.com/user-attachments/assets/9413d63f-d563-4865-81a6-fc8cf14d5e53" />
+
 
 ## 二、概要設計說明書（High-Level Design）
 
@@ -114,7 +114,7 @@
 
 各模組透過穿搭邏輯層進行協作，UI 層不直接存取資料層，以確保系統模組間低耦合、高內聚。
 
-<img width="734" height="391" alt="2" src="https://github.com/user-attachments/assets/1c7d1bdc-a571-4d20-b43d-035d54065ed6" />
+
 
 ---
 
@@ -142,7 +142,6 @@
 4. 邏輯層呼叫 Weather API
 5. 整合結果後回傳給 App
 
-<img width="408" height="622" alt="4" src="https://github.com/user-attachments/assets/9a6a7f6a-946e-41f6-a044-b59491f656b2" />
 
 ---
 
@@ -167,11 +166,11 @@
 * 是否需重新產生穿搭
 
 - 無須手動更換流程圖
-<img width="777" height="441" alt="1" src="https://github.com/user-attachments/assets/2171f738-6a41-4a00-96e8-d04df3cfbb48" />
+
 
 
 - 須手動更換之額外流程圖
-<img width="762" height="262" alt="6" src="https://github.com/user-attachments/assets/afd81c4e-6baa-440e-a5b6-2af43e4c8478" />
+
 
 
 
@@ -204,7 +203,7 @@
 * 一周穿搭顯示功能測試：驗證系統將每日穿搭整合並正確顯示於一周行事曆
 * 手動調整穿搭功能測試：驗證使用者手動調整穿搭後，系統能正確儲存與更新顯示結果
 
-<img width="382" height="301" alt="7" src="https://github.com/user-attachments/assets/186504c5-90d4-4e57-8bf9-c08a455a78af" />
+
 
 
 ---
@@ -258,11 +257,3 @@
 
 以提升系統智慧化與實用性。
 
----
-<img width="777" height="441" alt="1" src="https://github.com/user-attachments/assets/2171f738-6a41-4a00-96e8-d04df3cfbb48" />
-<img width="734" height="391" alt="2" src="https://github.com/user-attachments/assets/1c7d1bdc-a571-4d20-b43d-035d54065ed6" />
-<img width="486" height="630" alt="3" src="https://github.com/user-attachments/assets/9413d63f-d563-4865-81a6-fc8cf14d5e53" />
-<img width="408" height="622" alt="4" src="https://github.com/user-attachments/assets/9a6a7f6a-946e-41f6-a044-b59491f656b2" />
-<img width="754" height="446" alt="5" src="https://github.com/user-attachments/assets/cbd9c83e-6ea5-4d3d-9e48-cacab9411c00" />
-<img width="762" height="262" alt="6" src="https://github.com/user-attachments/assets/afd81c4e-6baa-440e-a5b6-2af43e4c8478" />
-<img width="382" height="301" alt="7" src="https://github.com/user-attachments/assets/186504c5-90d4-4e57-8bf9-c08a455a78af" />
